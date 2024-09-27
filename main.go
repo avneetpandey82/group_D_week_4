@@ -13,4 +13,5 @@ func main() {
 	license(25)
 	license(16)
 	tablePrinting(21)
+	arithematic_opertn()
 }
