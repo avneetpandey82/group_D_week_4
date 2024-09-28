@@ -14,6 +14,6 @@ func main() {
 	fmt.Println(calculator("modulus", 5, 3))
 	license(25)
 	license(16)
-	tablePrinting(21)
+	tablePrinting(99)
 	arithematic_opertn()
 }
